@@ -30,9 +30,9 @@ int main (){
 ### header 
 ###### h6 header
 
-ovo je **boldano**
-sda ~~italic italic ital~~
-[Neki text](#h1-header)
+ovo je **boldano**  
+sda ~~italic italic ital~~  
+[Neki text](#h1-header)  
 
 
 
